@@ -17,8 +17,7 @@ const buttonMessages = [
   "KENAPA TAK YES 😿",
   "HADI RINDU DKT SAYANG 🥺❤️",
   "BABY CLICK YES PLESS 😿",
-  "JANGAN MCM NI SAYANG 🥺",
-];
+  "JANGAN MCM NI SAYANG 🥺"];
 
 // no button clicked
 noButton.addEventListener("click", () => {
